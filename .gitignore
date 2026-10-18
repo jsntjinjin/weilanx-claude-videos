@@ -7,7 +7,7 @@ public/audio/
 public/footage/
 public/images/
 materials/
-*.mp4
+# *.mp4
 *.m4a
 *.wav
 *.mp3
